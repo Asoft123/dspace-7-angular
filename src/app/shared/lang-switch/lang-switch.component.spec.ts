@@ -22,7 +22,7 @@ class CustomLoader implements TranslateLoader {
     return of({
       'footer': {
         'copyright': 'copyright © 2002-{{ year }}',
-        'link.dspace': 'DSpace software',
+        'link.dspace': 'University of Africa',
         'link.lyrasis': 'LYRASIS'
       }
     });

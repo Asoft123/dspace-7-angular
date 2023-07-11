@@ -1290,7 +1290,7 @@
 
   "dso-selector.set-scope.community.head": "Select a search scope",
 
-  "dso-selector.set-scope.community.button": "Search all of DSpace",
+  "dso-selector.set-scope.community.button": "Search all of Repository",
 
   "dso-selector.set-scope.community.input-header": "Search for a community or collection",
 
@@ -2412,7 +2412,7 @@
 
   "login.breadcrumbs": "Login",
 
-  "logout.form.header": "Log out from DSpace",
+  "logout.form.header": "Log out from UAT",
 
   "logout.form.submit": "Log out",
 
@@ -2442,7 +2442,7 @@
 
   "menu.section.browse_community_by_title": "By Title",
 
-  "menu.section.browse_global": "All of DSpace",
+  "menu.section.browse_global": "All of Repository",
 
   "menu.section.browse_global_by_author": "By Author",
 
@@ -2452,7 +2452,7 @@
 
   "menu.section.browse_global_by_title": "By Title",
 
-  "menu.section.browse_global_communities_and_collections": "Communities & Collections",
+  "menu.section.browse_global_communities_and_collections": "Faculty & Publication",
 
   "menu.section.control_panel": "Control Panel",
 
@@ -2654,7 +2654,7 @@
 
   "mydspace.view-btn": "View",
 
-  "nav.browse.header": "All of DSpace",
+  "nav.browse.header": "All of Repository",
 
   "nav.community-browse.header": "By Community",
 
@@ -3420,7 +3420,8 @@
 
   "search.form.search_dspace": "All repository",
 
-  "search.form.scope.all": "All of DSpace",
+  "search.form.scope.all": "All of Repository Communities & Collections
+",
 
   "search.results.head": "Search Results",
 

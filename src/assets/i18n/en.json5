@@ -994,7 +994,7 @@
 
   "communityList.tabTitle": "Community List",
 
-  "communityList.title": "List of Communities",
+  "communityList.title": "List of Faculties",
 
   "communityList.showMore": "Show More",
 
@@ -1140,9 +1140,9 @@
 
   "community.all-lists.head": "Subcommunities and Collections",
 
-  "community.sub-collection-list.head": "Collections of this Community",
+  "community.sub-collection-list.head": "Collections of this Department",
 
-  "community.sub-community-list.head": "Communities of this Community",
+  "community.sub-community-list.head": "Department of this Faculty",
 
   "cookies.consent.accept-all": "Accept all",
 
@@ -1596,9 +1596,9 @@
 
   "home.title": "Home",
 
-  "home.top-level-communities.head": "Communities in DSpace",
+  "home.top-level-communities.head": "Faculties in UAT Respository",
 
-  "home.top-level-communities.help": "Select a community to browse its collections.",
+  "home.top-level-communities.help": "Select a Faculty to browse its repositories.",
 
   "info.end-user-agreement.accept": "I have read and I agree to the End User Agreement",
 
@@ -2354,7 +2354,7 @@
 
   "loading.bitstream": "Loading bitstream...",
 
-  "loading.bitstreams": "Loading bitstreams...",
+  "loading.bitstreams": "LLoadingoading bitstreams...",
 
   "loading.browse-by": "Loading items...",
 
@@ -2366,7 +2366,7 @@
 
   "loading.content-source": "Loading content source...",
 
-  "loading.community": "Loading community...",
+  "loading.community": "Loading Department...",
 
   "loading.default": "Loading...",
 
@@ -2386,13 +2386,13 @@
 
   "loading.sub-communities": "Loading sub-communities...",
 
-  "loading.top-level-communities": "Loading top-level communities...",
+  "loading.top-level-communities": "Loading top-level Faculties...",
 
   "login.form.email": "Email address",
 
   "login.form.forgot-password": "Have you forgotten your password?",
 
-  "login.form.header": "Please log in to DSpace",
+  "login.form.header": "Please log in to UAT",
 
   "login.form.new-user": "New user? Click here to register.",
 
@@ -2656,7 +2656,7 @@
 
   "nav.browse.header": "All of Repository",
 
-  "nav.community-browse.header": "By Community",
+  "nav.community-browse.header": "By Faculty",
 
   "nav.language": "Language switch",
 
@@ -2666,7 +2666,7 @@
 
   "nav.main.description": "Main navigation bar",
 
-  "nav.mydspace": "MyDSpace",
+  "nav.mydspace": "MyUAT",
 
   "nav.profile": "Profile",
 
@@ -3096,9 +3096,9 @@
 
   "repository.image.logo": "Repository logo",
 
-  "repository.title.prefix": "DSpace Angular :: ",
+  "repository.title.prefix": "University of Africa, Toru-Orua :: ",
 
-  "repository.title.prefixDSpace": "DSpace Angular ::",
+  "repository.title.prefixDSpace": "University of Africa, Toru-Orua ::",
 
   "resource-policies.add.button": "Add",
 
